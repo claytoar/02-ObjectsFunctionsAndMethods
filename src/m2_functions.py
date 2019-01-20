@@ -21,7 +21,7 @@ import rosegraphics as rg
 
 
 def main():
-    pythag(6,8)
+    pythag(9,12)
     turtles('blue', 10)
     turtles('red', 2)
 
